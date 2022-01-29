@@ -1,0 +1,5 @@
+{
+  "name": "files_watcher",  
+  "main": "index.js",
+  "type":"module"
+}
